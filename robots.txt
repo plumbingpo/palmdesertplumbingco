@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://palmdesertplumbingco.com/sitemap.xml
